@@ -16,5 +16,8 @@ abstract class AuthRemoteDataSource{
     required String token
 
   });
+  Future<ResponseModel>forgetPassword({
+    required String email,
+  });
 
 }

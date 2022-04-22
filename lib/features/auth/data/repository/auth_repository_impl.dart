@@ -1,4 +1,3 @@
-import 'package:dio/dio.dart';
 import 'package:mega_trust_food_delivery/features/auth/data/data_source/local_data_source/auth_local_data_source_impl.dart';
 import 'package:mega_trust_food_delivery/features/auth/data/data_source/remote_data_source/auth_remote_data_source_impl.dart';
 import 'package:mega_trust_food_delivery/features/auth/data/mapper/login_mapper.dart';
